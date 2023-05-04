@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.dll
+*.pyd
+
+# C extensions
+*.c
+*.h
+
+# Python virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Node modules
+node_modules/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Django generated files
+*.pyc
+*.db.sqlite3
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE, VSCode
+.vscode/
+*.code-workspace
+
+# Others
+*.bak
+*.swp
+*~
+.idea/
+*.env
+*.pyc
+*.log
+*.db
